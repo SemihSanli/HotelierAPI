@@ -1,0 +1,17 @@
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.DataAccessLayer.deps.json
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.DataAccessLayer.runtimeconfig.json
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.DataAccessLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.DataAccessLayer.pdb
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.EntityLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\bin\Debug\net8.0\Hotelier.EntityLayer.pdb
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.5BFE3849.Up2Date
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\refint\Hotelier.DataAccessLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.pdb
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\Hotelier.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.DataAccessLayer\obj\Debug\net8.0\ref\Hotelier.DataAccessLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.AssemblyInfo.cs
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\bin\Debug\net8.0\Hotelier.EntityLayer.deps.json
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\bin\Debug\net8.0\Hotelier.EntityLayer.runtimeconfig.json
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\bin\Debug\net8.0\Hotelier.EntityLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\bin\Debug\net8.0\Hotelier.EntityLayer.pdb
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\refint\Hotelier.EntityLayer.dll
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.pdb
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\Hotelier.EntityLayer.genruntimeconfig.cache
+C:\Users\Semih\source\repos\HOTELIER\APIConsume\Hotelier.EntityLayer\obj\Debug\net8.0\ref\Hotelier.EntityLayer.dll
